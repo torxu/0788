@@ -76,4 +76,13 @@ public class MaquinaDeTiquet
         // Clear the balance.
         balance = 0;
     }
+    
+    /**
+     * Obtener total
+     */
+    
+    public int getTotal()
+    {
+        return total;
+    }
 }
