@@ -34,7 +34,7 @@ public class EstacionDeTren
     {
         maquina1.introducirDinero(300);
         maquina1.imprimirTiquet();
-        maquina2.introducirDinero(100);
+        maquina2.introducirDinero(200);
         maquina2.imprimirTiquet();
     }
 }
