@@ -90,4 +90,9 @@ public class MaquinaDeTiquet
     {
         precio = coste;
     }
+    
+    public void rapido()
+    {
+        System.out.println("Por favor, inserte la cantidad correcta de dinero");
+    }
 }
