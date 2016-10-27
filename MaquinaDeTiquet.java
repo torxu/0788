@@ -24,9 +24,9 @@ public class MaquinaDeTiquet
      * Note that the price must be greater than zero, and there
      * are no checks to ensure this.
      */
-    public MaquinaDeTiquet(int coste)
+    public MaquinaDeTiquet()
     {
-        precio = coste;
+        precio = 800;
         balance = 0;
         total = 0;
     }
